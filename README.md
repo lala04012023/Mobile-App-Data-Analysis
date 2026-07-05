@@ -1,6 +1,6 @@
 # Mobile-App-Analysis
 Excel-based analysis of mobile app data, including user behavior and regional performance insights.
-# 📱 Mobile App Data Analysis
+# 📱 Mobile App Analysis
 
 ## 📌 Project Overview
 
